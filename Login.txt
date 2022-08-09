@@ -1,0 +1,13 @@
+Name: PlayerNameHere
+Password: PasswordHere
+Server ID: 1234567890
+
+
+//////////////////////
+
+
+You can leave notes for yourself here if you want.
+This could be a good place to write notes for other servers, as long as you don't use the names above.
+
+
+Farlands Quest: 942717865
