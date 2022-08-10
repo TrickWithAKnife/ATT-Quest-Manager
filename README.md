@@ -1,11 +1,11 @@
 # ATT-Quest-Manager
-The early version of a tool for Quest ATT servers.
+CJ's ATT Quest Manager -  an application to help users with working with prefabs, along with other functionality.
 
-To use, enter your account name, password and server ID into Login.txt.
-Make sure someone is on your server when you try to connect, otherwise the connect will fail and the application will close.
+This is still the early days, so more in-depth guides and new functionality are on their way.
 
-Any requests or bug reports? DM  CJ (Siege)#8147  on Discord.
+To use, download the .zip, extract, enter your account name, password and server ID into Login.txt.
+Make sure someone is on your server when you try to connect, otherwise the connection will fail and the application will close.
+
+Any requests or bug reports? DM  CJ (Siege)#8147  on Discord. Please be patient.
 
 This was inspired by The Prefabulator by Twidge - a vastly superior tool that works for ATT PC servers.
-
-As this is the early days it's very barebones, but I hope to add functionality and pretty it up over time.
