@@ -9,3 +9,5 @@ Make sure someone is on your server when you try to connect, otherwise the conne
 Any requests or bug reports? DM  CJ (Siege)#8147  on Discord. Please be patient.
 
 This was inspired by The Prefabulator by Twidge - a vastly superior tool that works for ATT PC servers.
+
+A video guide can be found here: https://youtu.be/avu4YZLFfik
